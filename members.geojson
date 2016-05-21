@@ -23,6 +23,17 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama": "Rama",
+        "alamat": "Purwokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.23964, -7.42428]
+      }
     }
 
   ]
